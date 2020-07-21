@@ -8,6 +8,15 @@
       "repoId": 267076948,
       "repoName": "cla-action",
       "pullRequestNo": 7
+    },
+    {
+      "name": "mrinalwadhwa",
+      "id": 159583,
+      "comment_id": 662057544,
+      "created_at": "2020-07-21T19:20:00Z",
+      "repoId": 156764788,
+      "repoName": "did-method-spec",
+      "pullRequestNo": 9
     }
   ]
 }
